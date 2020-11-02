@@ -1,7 +1,11 @@
 
 	<?php
+
 		$str = "LaPlateforme.";
-		$srt2 = "Vive";
-		$srt3 = "!"
-		echo $str;
+		$str2 = "Vive";
+		$str3 = "!";
+
+		$resultat = $str2 . ' ' . $str . ' ' . $str3;
+
+		echo $resultat;
 	?>
