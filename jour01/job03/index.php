@@ -1,5 +1,6 @@
 
 	<?php
+	
 		$int = "Bonjour";
 		$chaine = "LeFeux";
 		$numberflo = 0.5;
