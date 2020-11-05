@@ -1,26 +1,17 @@
 <?php
 
-	$i = 0;
+	$number  = 0;
 
-	while ($i < 1337) {
-
-			echo  $i . "<br/>";
-
-			$i = $i + 1;	
-
-		$nombre = 0;
-
-	while ($nombre <= 1337) {
-    if( $nombre == 26 | $nombre == 37 | $nombre == 38 | $nombre == 1111 | $nombre == 3233){
-    }
-
-    else{
-        echo .$nombre. <br/>;
-    }
-    $nombre = $nombre + 1;
+	while ($number < 1337) {
+		if ($number == 26|| $number == 37|| $number == 88|| $number == 1111|| $number == 3233 ) {
+			echo ("");
 		}
+		 else{
+		 	echo ($number. "<br/>");
+		 } 
 
-
+		 $number++;
+	}
 
 
 ?>

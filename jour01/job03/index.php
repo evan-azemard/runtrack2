@@ -7,7 +7,6 @@
 		$ok = True;
 	?>
 
-	<html>
     <h1>Data types on PHP</h1>
     <table border="1">
     <theader>
@@ -36,3 +35,6 @@
         <td><?php echo($numberflo);?></td>
     </tr>
     <table>
+</html>
+
+?>
